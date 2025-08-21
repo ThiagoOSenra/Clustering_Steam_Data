@@ -3,7 +3,7 @@
 [![Status](https://img.shields.io/badge/status-concluído-brightgreen.svg)]() [![License](https://img.shields.io/badge/license-MIT-green.svg)]() [![R](https://img.shields.io/badge/R-%3E=4.2.0-276DC3.svg)]() [![Made with love](https://img.shields.io/badge/made%20with-%E2%9D%A4-red.svg)]()
 
 Repositório do projeto **GET00126 – Análise Multivariada I (UFF, 2025/1)**.\
-Aplicamos **clusterização hierárquica** com **distância de Gower** (dados mistos) para segmentar **27.075 jogos** da Steam (até 2019) por **gênero, avaliações, tempos de jogo, preço, popularidade e compatibilidade**.
+Foi aplicado **clusterização hierárquica** com **distância de Gower** (dados mistos) para segmentar **27.075 jogos** da Steam (até 2019) por **gênero, avaliações, tempos de jogo, preço, popularidade e compatibilidade**.
 
 ## 🧭 Visão Geral
 
